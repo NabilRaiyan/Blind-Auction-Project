@@ -1,2 +1,2 @@
-# Python-small-Projects
-This repository is for projects which I wrote using the python programming language.
+# Blind Auction Project
+This is a blind auction project. Where bidders can bid and the highest bidder will win the bidding.
